@@ -1,0 +1,9 @@
+.bannarpage {
+    background-image: url('/background.jpg');
+    /* Replace with the actual path to your image */
+    background-size: cover;
+    /* Adjust to your preferred size */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /
+}

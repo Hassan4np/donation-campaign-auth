@@ -1,0 +1,129 @@
+[{
+        "id": 1,
+        "picture": "https://i.ibb.co/fns1C7V/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_bg": "#0052FF",
+        "description": "There is a famous proverb stating, “Health is Wealth,” which is self-explanatory. Health is an asset to human life, which leads to a stable and calm mind, ultimately leading to a wealthy life. If a person is taking good care of their health, they get mental peace and can focus on their work further. When we fall sick, it makes us irritated and unstable. Staying healthy is about being physically, mentally, and socially fit.",
+        "price": 199.99
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/YkS1Yn4/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#FF443333",
+        "card_bg": "#FF444A26",
+        "text_bg": "#FF444A",
+        "description": "First of all, education gives the ability to read and write to anyone. A good education is extremely essential for everyone to grow and succeed in life. Education increases self-confidence and assists in developing the personality of a person. Education plays a big role in our life. Education is split into 3 parts such as primary education, secondary education, and higher secondary education. All these 3 divisions of education have their value and advantages.",
+        "price": 199.99
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/JzNpMZk/Clothing.png",
+        "title": "Better Food for Everyone",
+        "category": "Clothing",
+        "category_bg": "#79C23333",
+        "card_bg": "#79C23F26",
+        "text_bg": "#79C23F",
+        "description": "There are many types of clothes in the world that can dress a person. There are sparkling dresses and stiff suits or wornout pants and brand new skirts but my favorite piece of clothing is a sweatshirt that my father brought back for me from a trip to New York. It is bright green with the word New York on the front in black and blue which are my favourite colors. It is my absolute favourite piece of clothing because it came from so far away. It is also very cozy and warm on the inside. I wear as many times as I possibly can because I love it so much.",
+        "price": 199.99
+    }, {
+        "id": 4,
+        "picture": "https://i.ibb.co/njKtp9D/Food.png",
+        "title": "Used Clothing Drive",
+        "category": "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_bg": "#F87147",
+        "description": "Food is more than just sustenance; it's a source of pleasure, nourishment, and culture. Exploring diverse cuisines can be a delightful journey. Prioritize fresh, whole foods for optimal health, but don't forget to savor indulgent treats occasionally. Sharing meals with loved ones fosters connections. Remember, what you eat impacts not only your body but also your well-being. So, savor each bite, appreciate its origins, and make conscious choices that align with your values and health goals. Food is a celebration of life; relish it.",
+        "price": 79.99
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/njKtp9D/Food.png",
+        "title": "Used Clothing Drive",
+        "category": "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_bg": "#F87147",
+        "description": "Food is more than just sustenance; it's a source of pleasure, nourishment, and culture. Exploring diverse cuisines can be a delightful journey. Prioritize fresh, whole foods for optimal health, but don't forget to savor indulgent treats occasionally. Sharing meals with loved ones fosters connections. Remember, what you eat impacts not only your body but also your well-being. So, savor each bite, appreciate its origins, and make conscious choices that align with your values and health goals. Food is a celebration of life; relish it.",
+        "price": 79.99
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/JzNpMZk/Clothing.png",
+        "title": "Better Food for Everyone",
+        "category": "Clothing",
+        "category_bg": "#79C23333",
+        "card_bg": "#79C23F26",
+        "text_bg": "#79C23F",
+        "description": "There are many types of clothes in the world that can dress a person. There are sparkling dresses and stiff suits or wornout pants and brand new skirts but my favorite piece of clothing is a sweatshirt that my father brought back for me from a trip to New York. It is bright green with the word New York on the front in black and blue which are my favourite colors. It is my absolute favourite piece of clothing because it came from so far away. It is also very cozy and warm on the inside. I wear as many times as I possibly can because I love it so much.",
+        "price": 79.99
+    }, {
+        "id": 7,
+        "picture": "https://i.ibb.co/YkS1Yn4/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#FF443333",
+        "card_bg": "#FF444A26",
+        "text_bg": "#FF444A",
+        "description": "First of all, education gives the ability to read and write to anyone. A good education is extremely essential for everyone to grow and succeed in life. Education increases self-confidence and assists in developing the personality of a person. Education plays a big role in our life. Education is split into 3 parts such as primary education, secondary education, and higher secondary education. All these 3 divisions of education have their value and advantages..",
+        "price": 49.99
+    }, {
+        "id": 8,
+        "picture": "https://i.ibb.co/fns1C7V/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_bg": "#0052FF",
+        "description": "There is a famous proverb stating, “Health is Wealth,” which is self-explanatory. Health is an asset to human life, which leads to a stable and calm mind, ultimately leading to a wealthy life. If a person is taking good care of their health, they get mental peace and can focus on their work further. When we fall sick, it makes us irritated and unstable. Staying healthy is about being physically, mentally, and socially fit.",
+        "price": 199.99
+    }, {
+        "id": 9,
+        "picture": "https://i.ibb.co/fns1C7V/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_bg": "#0052FF",
+        "description": "There is a famous proverb stating, “Health is Wealth,” which is self-explanatory. Health is an asset to human life, which leads to a stable and calm mind, ultimately leading to a wealthy life. If a person is taking good care of their health, they get mental peace and can focus on their work further. When we fall sick, it makes us irritated and unstable. Staying healthy is about being physically, mentally, and socially fit.. ",
+        "price": 199.99
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/YkS1Yn4/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#FF443333",
+        "card_bg": "#FF444A26",
+        "text_bg": "#FF444A",
+        "description": "First of all, education gives the ability to read and write to anyone. A good education is extremely essential for everyone to grow and succeed in life. Education increases self-confidence and assists in developing the personality of a person. Education plays a big role in our life. Education is split into 3 parts such as primary education, secondary education, and higher secondary education. All these 3 divisions of education have their value and advantages.",
+        "price": 199.99
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/JzNpMZk/Clothing.png",
+        "title": "Better Food for Everyone",
+        "category": "Clothing",
+        "category_bg": "#79C23333",
+        "card_bg": "#79C23F26",
+        "text_bg": "#79C23F",
+        "description": "There are many types of clothes in the world that can dress a person. There are sparkling dresses and stiff suits or wornout pants and brand new skirts but my favorite piece of clothing is a sweatshirt that my father brought back for me from a trip to New York. It is bright green with the word New York on the front in black and blue which are my favourite colors. It is my absolute favourite piece of clothing because it came from so far away. It is also very cozy and warm on the inside. I wear as many times as I possibly can because I love it so much.",
+        "price": 199.99
+    }, {
+        "id": 12,
+        "picture": "https://i.ibb.co/njKtp9D/Food.png",
+        "title": "Used Clothing Drive",
+        "category": "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_bg": "#F87147",
+        "description": "Food is more than just sustenance; it's a source of pleasure, nourishment, and culture. Exploring diverse cuisines can be a delightful journey. Prioritize fresh, whole foods for optimal health, but don't forget to savor indulgent treats occasionally. Sharing meals with loved ones fosters connections. Remember, what you eat impacts not only your body but also your well-being. So, savor each bite, appreciate its origins, and make conscious choices that align with your values and health goals. Food is a celebration of life; relish it.",
+        "price": 79.99
+    }
+
+]
